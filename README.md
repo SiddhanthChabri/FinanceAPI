@@ -121,12 +121,12 @@ Relationships configured using **EF Core Fluent API** (not data annotations).
 ### 🔑 Auth
 | Method | Endpoint | Description | Auth |
 |--------|----------|-------------|------|
-| `POST` | `/api/auth/login` | Login and receive JWT token | ❌ |
+| `POST` | `/api/auth/login` | Login and receive JWT token | ✅ |
 
 ### 👤 Users
 | Method | Endpoint | Description | Auth |
 |--------|----------|-------------|------|
-| `POST` | `/api/users` | Register a new user | ❌ |
+| `POST` | `/api/users` | Register a new user | ✅ |
 | `GET` | `/api/users` | Get all users | ✅ |
 | `GET` | `/api/users/{id}` | Get user by ID | ✅ |
 | `PUT` | `/api/users/{id}` | Update user | ✅ |
@@ -303,9 +303,7 @@ Data annotations mix infrastructure concerns into domain models. Fluent API keep
 
 ## 👨‍💻 Author
 
-**Your Name**
-Final Year B.Tech Computer Science
-Building toward enterprise .NET backend development
+**Siddhanth Chabri**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
