@@ -112,10 +112,6 @@ Claims stored in JWT:
                         └──────────────────┘
 ```
 
-Relationships configured using **EF Core Fluent API** (not data annotations).
-
----
-
 ## 📡 API Endpoints
 
 ### 🔑 Auth
