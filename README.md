@@ -277,14 +277,6 @@ Content-Type: application/json
 - [x] Repository Pattern
 - [x] Service Layer
 - [x] Two-project Solution Architecture
-- [ ] Global Exception Handling Middleware
-- [ ] FluentValidation on all DTOs
-- [ ] Response DTOs for all endpoints
-- [ ] AutoMapper
-- [ ] Monthly Summary Report API
-- [ ] Category-wise Spending Report
-- [ ] Pagination on list endpoints
-- [ ] Unit Tests
 
 ---
 
@@ -305,13 +297,11 @@ Data annotations mix infrastructure concerns into domain models. Fluent API keep
 
 **Siddhanth Chabri**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddhanthChabri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhanth-chabri-2381ab245/)
 
 ---
 
 <div align="center">
-
-*Built with intent. Not from a tutorial.*
 
 </div>
