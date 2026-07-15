@@ -58,9 +58,9 @@ namespace FinanceAPI
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
-                app.MapScalarApiReference(options =>          // 👈 changed
+                app.MapScalarApiReference(options =>          
                 {
-                    options.WithOpenApiRoutePattern("/swagger/v1/swagger.json"); // 👈 points to Swashbuckle
+                    options.WithOpenApiRoutePattern("/swagger/v1/swagger.json"); 
                     options.WithTitle("FinanceAPI");
                 });
             }
